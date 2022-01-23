@@ -50,4 +50,4 @@ async def fake(ctx):
         await ctx.channel.send(file=nextcord.File('im.jpg'))
 
 
-bot.run('NzAxNjMxMDM0NDQ1Mzk4MDQ2.Xp0S0g.0tkW7udhNMkaVSfakifLEgq6muo')
+bot.run('')
